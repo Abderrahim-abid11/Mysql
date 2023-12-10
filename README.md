@@ -1,0 +1,31 @@
+## MYSQL : 
+
+- 1 : create database .
+- 2 : create table .
+- 3 : insert data .
+- 4 : select data .
+- 5 : update data .
+- 6 : delete data .
+- 7 : date .
+- 8 : unique .
+- 9 : not null .
+- 10 : default .
+- 11 : check constraint .
+- 12 : primary key .
+- 13 : auto increment .
+- 14 : foreign key .
+- 15 : joins .
+- 16 : logical operators .
+- 17 : functions .
+- 18 : order .
+- 19 : limit .
+- 20 : union .
+- 21 : self joins .
+- 22 : views .
+- 23 : index .
+- 24 : subquery .
+- 25 : order by .
+- 26 : rollup .
+- 27 : on delete . 
+- 28 : stored procudure .
+- 29 : trigger .
